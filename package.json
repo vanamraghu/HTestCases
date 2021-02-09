@@ -1,0 +1,15 @@
+{
+  "name": "hobsons-cypress-challenge",
+  "version": "1.0.0",
+  "description": "Hobsons QA Engineer Cypress challenge",
+  "main": "",
+  "scripts": {
+    "start": "cypress open"
+  },
+  "dependencies": {
+    "cypress-plugin-snapshots": "^1.4.4"
+  },
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
+}
